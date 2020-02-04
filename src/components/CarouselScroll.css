@@ -1,0 +1,15 @@
+.carousel-container {
+    white-space: nowrap;
+    overflow-x: scroll;
+    border: 1px solid rebeccapurple;
+    position: relative;
+}
+
+.carousel-item {
+    box-sizing: border-box;
+    height: 200px;
+    width: 300px;
+    font-size: 60px;
+    display: inline-block;
+    border: 1px solid red;
+}
